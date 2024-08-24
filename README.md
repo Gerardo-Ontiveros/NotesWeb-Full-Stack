@@ -42,6 +42,11 @@
 - [![Django][django-badge]][django-url] - A Python framework for backend web development.
 - [![XAMPP][xampp-badge]][xampp-url] - A software package that includes Apache, MySQL, and PHP for local development environments.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
 [vite-url]: https://vitejs.dev/
 [django-url]: https://www.djangoproject.com/
 [xampp-url]: https://www.apachefriends.org/es/index.html
