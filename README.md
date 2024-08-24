@@ -1,5 +1,4 @@
-# NotesWeb - Full Stack Application
-
+# NotesWeb - Full Stack Application [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
 ## Descripción
 
 **NotesWeb** es una aplicación Full Stack diseñada para la gestión y almacenamiento de notas personales. La aplicación permite a los usuarios crear, editar, eliminar y visualizar notas desde una interfaz intuitiva. El frontend está construido con **Vite** y **React**, mientras que el backend está desarrollado con **Django**, utilizando una base de datos para almacenar de manera segura las notas de los usuarios.
@@ -37,3 +36,16 @@
 
    ```bash
    git clone https://github.com/Gerardo-Ontiveros/NotesWeb-Full-Stack.git
+
+## 🛠️ Stack
+- [![Vite][vite-badge]][vite-url] - A fast and modern build tool for React and other frontend applications.
+- [![Django][django-badge]][django-url] - A Python framework for backend web development.
+- [![XAMPP][xampp-badge]][xampp-url] - A software package that includes Apache, MySQL, and PHP for local development environments.
+
+[vite-url]: https://vitejs.dev/
+[django-url]: https://www.djangoproject.com/
+[xampp-url]: https://www.apachefriends.org/es/index.html
+
+[vite-badge]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[django-badge]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[xampp-badge]: https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white
